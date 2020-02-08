@@ -1,15 +1,15 @@
 # Comparing state of the art NLP approaches
 
-## Deep Learning
-
-### Word Vectors
+### Word Embeddings
 
 * Word2Vec
 * GloVe
 * [fastText](https://fasttext.cc/)
 
-### Contextual Word Vectors
+### Contextual Embeddings
 
+* ULMFit
+* Laser (https://engineering.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
 * [ELMo](https://tfhub.dev/google/elmo/2)
 * BERT
 
